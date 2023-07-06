@@ -1,12 +1,12 @@
 body {
   font-family: "Open Sans", sans-serif;
-  text-align: end;
+  text-align: center;
   margin: 0;
 }
 
 #hero {
-    width: 562px;
-    margin: auto;
+    width: 592px;
+    margin: 0 auto 72px;
 }
 
 #hero img {
@@ -41,7 +41,7 @@ p, #footer {
 }
 
 #footer a + a {
-    margin-left: 340px;
+    margin-left: 28px;
     height: 28px;
     margin-top: 659px;
     width: 592px;
